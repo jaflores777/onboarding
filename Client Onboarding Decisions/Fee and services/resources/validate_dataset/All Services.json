@@ -1,7 +1,7 @@
 {
   "client": {
     "annualRevenue": 27500000,
-    "companyAge": 50,
+    "companyAge": 25,
     "defaultedPayment": false,
     "numberOfEmployees": 350
   },
